@@ -104,5 +104,6 @@ CORS_ALLOW_ALL_ORIGINS = DEBUG  # open in dev, locked in production
 CORS_ALLOWED_ORIGINS = [
     'https://yatraksathi.com',
     'https://www.yatraksathi.com',
+    'https://cms.yatraksathi.com',
     'http://localhost:3000',
 ]
